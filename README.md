@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Pramodh 👋
 
-<!--
-**mullewarpramodh-tech/mullewarpramodh-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer graduating in 2026 with a focus on **event-driven distributed systems, backend architectures, and AI integration**. 
 
-Here are some ideas to get you started:
+- 🔭 **Current Focus:** Deep CS fundamentals (GATE) and scalable microservices with Spring Boot & Kafka.
+- 🛠️ **Core Stack:** Java, Python, Spring Boot, Apache Kafka, PostgreSQL, Docker, TensorFlow.
+- 💬 **Ask me about:** Microservices architecture, event streaming, and federated learning.
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mullewar-pramodh-946441304) | [Email](mailto:mullewarpramodh@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack & Tools
+
+**Languages & Frameworks:**  
+`Java (17+)` • `Python` • `Spring Boot 3` • `Spring Security (JWT)` • `Hibernate/JPA` • `Django` • `SQL`
+
+**Distributed Systems & DevOps:**  
+`Apache Kafka` • `Docker` • `PostgreSQL` • `GitHub Actions (CI/CD)` • `Linux`
+
+**AI & Machine Learning:**  
+`TensorFlow` • `Scikit-Learn` • `Pandas` • `NumPy` • `Federated Learning (FedAvg)`
+
+---
+
+### 📌 Featured Projects
+* ⚡ **[FinTech Fraud Monitor](https://github.com/mullewarpramodh-tech/fintech-fraud-monitor)** — Event-driven microservices with Kafka, Spring Boot & sliding-window fraud detection.
+* 🔒 **[Privacy-Preserving Healthcare Federated Learning](https://github.com/mullewarpramodh-tech/privacy-preserving-healthcare-federated-learning)** — Polyglot microservices connecting Spring Boot orchestration with Python/TensorFlow nodes.
+* 📊 **[Digital Currency Analytics Platform](https://github.com/mullewarpramodh-tech/digital-currency-analytics-platform)** — Full-stack Django web app with predictive ML pipelines.
