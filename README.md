@@ -2,7 +2,7 @@
 
 I am a Software Engineer graduating in 2026 with a focus on **event-driven distributed systems, backend architectures, and AI integration**. 
 
-- 🔭 **Current Focus:** Deep CS fundamentals (GATE) and scalable microservices with Spring Boot & Kafka.
+- 🔭 **Current Focus:** Deep CS fundamentals and scalable microservices with Spring Boot & Kafka.
 - 🛠️ **Core Stack:** Java, Python, Spring Boot, Apache Kafka, PostgreSQL, Docker, TensorFlow.
 - 💬 **Ask me about:** Microservices architecture, event streaming, and federated learning.
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mullewar-pramodh-946441304) | [Email](mailto:mullewarpramodh@gmail.com)
