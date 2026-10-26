@@ -1,6 +1,6 @@
 # Hi there, I'm Pramodh 👋
 
-I am a Software Engineer graduating in 2026 with a focus on **event-driven distributed systems, backend architectures, and AI integration**. 
+I am a Software Engineer with a focus on **event-driven distributed systems, backend architectures, and AI integration**. 
 
 - 🔭 **Current Focus:** Deep CS fundamentals and scalable microservices with Spring Boot & Kafka.
 - 🛠️ **Core Stack:** Java, Python, Spring Boot, Apache Kafka, PostgreSQL, Docker, TensorFlow.
